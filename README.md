@@ -6,4 +6,4 @@
 2.新建index.html
 
 ## 如何预览
-点击 resou 即可
+点击 https://chris-root.github.io/blog_2017_11.27/ 即可
